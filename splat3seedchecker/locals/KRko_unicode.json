@@ -85,31 +85,31 @@
     "Tutorial": "튜토리얼"
   },
   "Recovery": {
-    "ButtonRefine": "Refine Seed",
-    "ButtonSearch": "Search Seed",
-    "ButtonUpdate": "Update Gear",
-    "Fast": "Fast",
-    "HaveBrand": "Please select the Brand of your gear. Then, please select the unlocked abilities and the drink you had active for this slot. Calculating the seed will take approximately 1 to 2 minutes, so please be patient.",
-    "Refine1": "The refine count is used for two things: Tell the search to stop when you exceed the refine count (so the lower the number, the fast you might see a result when there are too many candidates), as well as the amount of memory consumption the application uses in order to allow you to refine the result.",
-    "Refine2": "When refining a seed, the application will not look at every possible seed, but instead only look at the seeds it has in memory. This will speed up additional searches by a lot (i.e. from minutes it goes to down to a few seconds at most). If you are on a mobile phone, my suggestion is not to succeed the refine count by more than 100.000 (100k).",
-    "RefineCount": "Refine Count",
-    "ResultNoResults": "No results to display.",
-    "ResultPossible": "Possible Seed"
+    "ButtonRefine": "시드 정제",
+    "ButtonSearch": "시드 검색",
+    "ButtonUpdate": "기어 업데이트",
+    "Fast": "빠르게",
+    "HaveBrand": "기어의 브랜드를 선택해주십시오. 그다음, 이 슬롯에 열린 기어 파워와 적용되었던 드링크를 선택해주십시오. 기어를 계산하려면 대략 1-2분이 걸리니, 기다려주세요.",
+    "Refine1": "정제 수는 두가지용도로 사용됩니다: 정한 수에서 정제를 멈추고 (만약 시드 후보가 너무 많을시 정제 수가 낮을수록 빨리 계산결과가 나올수도있습니다), 정제시 앱이 사용하는 메모리 용량을 줄여줍니다.",
+    "Refine2": "시드 정제시, 가능한 모든 시드를 검색하는것이 아닌, 메모리에 저장되어있는 시드들만 검색하게 돼있습니다. 이덕분에 검색속도를 크게 올릴수있습니다 (예를들어, 검색 시간을 몇분에서 겨우 몇초까지 줄일수있습니다). 만약 모바일에서 검색하신다면, 정제 수를 10만 이상으로 설정하시는것을 추천하지않습니다.",
+    "RefineCount": "정제 수
+    "ResultNoResults": "표시할 결과가 없습니다.",
+    "ResultPossible": "가능한 시드"
   },
   "SeedListing": {
-    "DeleteSeed": "Reset Seed",
-    "Grade": "Grade",
-    "Intro": "In order to use the Shell-Out Machine Prediction, you need to find your seed first. In order to find your seed, you need to do multiple pulls in a row and write down the results. Please make sure that you enter the results from the correct Shell-Out machine (i.e. normal capsules outside of a splatfest and capsules with a shell on it are for the splatfest seed).",
-    "NoSeedFoundYet": "No possible seeds found yet.",
-    "Normal": "Normal",
-    "OneSeedFound": "Only one possible seed found.",
-    "Pull": "Pull",
-    "Result": "Result",
-    "Rolls": "Rolls",
-    "SeedFinder": "Seed Finder",
-    "ShowResultTypes": "Show Result Types",
-    "Splatfest": "Splatfest",
-    "StoreSeed": "Store Seed",
-    "TooManySeeds": "Too many possible seeds found. Please add another pull."
+    "DeleteSeed": "시드 초기화",
+    "Grade": "등급",
+    "Intro": "뽑기 결과 계산기를 사용하시려면, 뽑기 시드를 먼저 찾으셔야합니다. 시드를 찾으시려면, 뽑기를 여러번 한다음, 차례대로 나오는 상품들을 적어넣어주세요. 꼭 올바른 뽑기 기계를 사용하신게 맞는지 확인해주시길 바랍니다 (예를들어, 돈으로 뽑기를 하여 나온 상품과, 페스티벌 소라고동으로 뽑은 상품들은 다르니 구분해서 적어넣어주세요).",
+    "NoSeedFoundYet": "아직 가능한 시드가 발견되지않았습니다.",
+    "Normal": "일반",
+    "OneSeedFound": "가능한 시드 단 한개가 발견되었습니다",
+    "Pull": "뽑기",
+    "Result": "결과",
+    "Rolls": "회 / 뽑은횟수",
+    "SeedFinder": "시드 탐색기",
+    "ShowResultTypes": "표시 결과 종류",
+    "Splatfest": "페스티벌",
+    "StoreSeed": "시드 저장",
+    "TooManySeeds": "가능한 시드가 너무 많습니다, 뽑기 결과를 더 추가해주세요."
   }
 }
